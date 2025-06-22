@@ -5,9 +5,9 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-21T19:19:47.707Z",
-    "end": "2025-06-21T19:19:48.777Z",
-    "duration": 1070
+    "start": "2025-06-22T08:03:27.033Z",
+    "end": "2025-06-22T08:03:28.156Z",
+    "duration": 1123
   },
   "tests": [
     {
@@ -62,14 +62,14 @@
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns a distance in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns distance when destination is below distance",
       "fullTitle": "index.js distanceTravelledInFeet() returns distance when destination is below distance",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -157,14 +157,14 @@
     {
       "title": "returns a distance in feet",
       "fullTitle": "index.js distanceTravelledInFeet() returns a distance in feet",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns distance when destination is below distance",
       "fullTitle": "index.js distanceTravelledInFeet() returns distance when destination is below distance",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
